@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T08:52:57.779Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="CQlWRs922_-NXYi38nme" version="24.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-12T10:18:02.604Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="NQI_H8SRvhNS5HZM7i1G" version="24.5.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1605" dy="931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -83,7 +83,7 @@
             <mxPoint y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Fa-mBylE2UfD7tgF3QSM-8" value="遮挡率超过0.5" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Fa-mBylE2UfD7tgF3QSM-21">
+        <mxCell id="Fa-mBylE2UfD7tgF3QSM-8" value="遮挡率超过0.3" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Fa-mBylE2UfD7tgF3QSM-21">
           <mxGeometry x="96.42857142857142" y="808.051948051948" width="115.71428571428571" height="105.97402597402596" as="geometry" />
         </mxCell>
         <mxCell id="Fa-mBylE2UfD7tgF3QSM-12" value="不发布" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Fa-mBylE2UfD7tgF3QSM-21">
