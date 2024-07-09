@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-09T03:53:06.890Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="VrPuewfLlWFklOh0NScS" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-09T03:53:49.791Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="odajxOgJjgwPh80W3q9Y" version="24.0.2" type="github">
   <diagram name="第 1 页" id="TYqk6kdfKkafn9pEESks">
     <mxGraphModel dx="2117" dy="1741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -166,7 +166,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Td2c7Je7VU21n2C8mwZ7-128" value="&lt;strong&gt;多传感器融合算法分类&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="2030" width="120" height="60" as="geometry" />
+          <mxGeometry x="-92" y="2030" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Td2c7Je7VU21n2C8mwZ7-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Td2c7Je7VU21n2C8mwZ7-129" target="Td2c7Je7VU21n2C8mwZ7-131">
           <mxGeometry relative="1" as="geometry" />
@@ -178,7 +178,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Td2c7Je7VU21n2C8mwZ7-129" value="&lt;strong&gt;随机类方法&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="1830" width="120" height="60" as="geometry" />
+          <mxGeometry x="148" y="1830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Td2c7Je7VU21n2C8mwZ7-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Td2c7Je7VU21n2C8mwZ7-130" target="Td2c7Je7VU21n2C8mwZ7-141">
           <mxGeometry relative="1" as="geometry" />
@@ -193,34 +193,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Td2c7Je7VU21n2C8mwZ7-130" value="&lt;strong&gt;人工智能方法&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="2218" width="120" height="60" as="geometry" />
+          <mxGeometry x="148" y="2218" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Td2c7Je7VU21n2C8mwZ7-131" value="&lt;strong&gt;卡尔曼滤波法&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="1680" width="120" height="60" as="geometry" />
+          <mxGeometry x="442" y="1680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Td2c7Je7VU21n2C8mwZ7-132" value="&lt;strong&gt;加权平均法&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="1780" width="120" height="60" as="geometry" />
+          <mxGeometry x="442" y="1780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Td2c7Je7VU21n2C8mwZ7-133" value="&lt;strong&gt;贝叶斯估计法&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="1870" width="120" height="60" as="geometry" />
+          <mxGeometry x="442" y="1870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Td2c7Je7VU21n2C8mwZ7-134" value="&lt;strong&gt;D-S证据理论&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="1960" width="120" height="60" as="geometry" />
+          <mxGeometry x="442" y="1960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Td2c7Je7VU21n2C8mwZ7-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.017;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Td2c7Je7VU21n2C8mwZ7-129" target="Td2c7Je7VU21n2C8mwZ7-132">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Td2c7Je7VU21n2C8mwZ7-141" value="&lt;strong&gt;专家系统&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="2100" width="120" height="60" as="geometry" />
+          <mxGeometry x="442" y="2100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Td2c7Je7VU21n2C8mwZ7-142" value="&lt;strong&gt;模糊逻辑理论&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="2190" width="120" height="60" as="geometry" />
+          <mxGeometry x="442" y="2190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Td2c7Je7VU21n2C8mwZ7-143" value="&lt;strong&gt;人工神经网络&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="2278" width="120" height="60" as="geometry" />
+          <mxGeometry x="442" y="2278" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Td2c7Je7VU21n2C8mwZ7-144" value="&lt;strong&gt;遗传算法&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="2360" width="120" height="60" as="geometry" />
+          <mxGeometry x="442" y="2360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
